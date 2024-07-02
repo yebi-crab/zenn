@@ -1,9 +1,9 @@
 ---
-title: "【機械学習メモ】"
+title: "【機械学習メモ】疑似乱数のシードを固定する"
 emoji:  "📖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Python"]
-published: false
+published: true
 ---
 
 # 「疑似乱数のシードを固定する」とは
